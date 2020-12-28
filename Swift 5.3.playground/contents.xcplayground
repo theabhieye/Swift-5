@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='1. A Basic Tour'/>
+        <page name='2 Basic Operators'/>
+        <page name='3 Strings and Characters'/>
+        <page name='4 Collection Types'/>
+        <page name='5 Control Flow'/>
+        <page name='6 Functions'/>
+        <page name='7 Closer'/>
+        <page name='8 Enumeration'/>
+        <page name='9 Structures and Classes   '/>
+        <page name='10 Properties'/>
+        <page name='11 Methods'/>
+        <page name='12 Subscripts'/>
+        <page name='13 Inheritance'/>
+        <page name='14 Initialization'/>
+        <page name='IO Hackerearth'/>
+        <page name='15 Deinitialization'/>
+        <page name='16 Optional Chaining'/>
+        <page name='17 Error Handling'/>
+    </pages>
+</playground>
